@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'updated-heroes';
+  menu1 = ['Game mechanics', 'Game modes', 'Story'];
+  menu2 = ['Media', 'FAQs', 'Purchase Info'];
 }
